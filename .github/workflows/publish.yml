@@ -24,7 +24,7 @@ jobs:
     - name: Install dependencies
       run: |
         npm install
-        npm install -g @zenn/cli
+        npm install -g zenn-cli
         npm install axios gray-matter js-yaml
         
     - name: Convert articles
