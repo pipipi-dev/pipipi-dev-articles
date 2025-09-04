@@ -26,7 +26,9 @@ function savePublishedData(data) {
 // Qiitaに投稿
 async function publishToQiita(article, publishedData) {
   if (!process.env.QIITA_API_TOKEN) {
-    console.log('⚠️  QIITA_API_TOKEN not found, skipping Qiita publishing');
+    console.error('❌ QIITA_API_TOKEN が設定されていません！');
+    console.error('   GitHub Settings → Secrets → Actions で QIITA_API_TOKEN を設定してください');
+    console.error('   取得方法: https://qiita.com/settings/applications');
     return null;
   }
 
@@ -96,7 +98,9 @@ async function publishToQiita(article, publishedData) {
 // Dev.toに投稿
 async function publishToDevTo(article, publishedData) {
   if (!process.env.DEV_TO_API_KEY) {
-    console.log('⚠️  DEV_TO_API_KEY not found, skipping Dev.to publishing');
+    console.error('❌ DEV_TO_API_KEY が設定されていません！');
+    console.error('   GitHub Settings → Secrets → Actions で DEV_TO_API_KEY を設定してください');
+    console.error('   取得方法: https://dev.to/settings/extensions');
     return null;
   }
 
