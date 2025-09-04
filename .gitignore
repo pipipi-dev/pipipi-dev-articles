@@ -137,3 +137,16 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# Multi-platform publisher specific
+# Templates (personal use, not public)
+templates/
+
+# Configuration files with secrets
+config/secrets.json
+config/local.json
+*.key
+*.pem
+
+# Temporary files
+temp/
