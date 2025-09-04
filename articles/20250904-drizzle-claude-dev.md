@@ -2,7 +2,7 @@
 title: "Drizzle ORM × Claude Code：次世代のTypeScript開発体験"
 emoji: "🚀"
 type: "tech"
-topics: ["typescript", "drizzle", "orm", "database", "claudecode"]
+topics: ["typescript", "drizzle", "orm", "claudecode"]
 published: true
 platforms: ["zenn", "qiita"]
 ---
