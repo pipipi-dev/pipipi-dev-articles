@@ -1,7 +1,7 @@
 ---
 title: "Drizzle ORM × Claude Code: Modern TypeScript Development"
 published: true
-tags: "typescript, drizzle, orm, database, claudecode"
+tags: "typescript, drizzle, orm, claudecode"
 canonical_url: null
 description: "
 ## 🎯 Article Overview

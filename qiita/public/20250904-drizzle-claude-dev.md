@@ -4,7 +4,6 @@ tags:
   - "typescript"
   - "drizzle"
   - "orm"
-  - "database"
   - "claudecode"
 private: false
 updated_at: "2025-09-04T14:01:38.995Z"
