@@ -185,7 +185,11 @@ function getPublishedArticles() {
       frontmatter: parsed.data,
       content: parsed.content
     };
-  }).filter(article => article.frontmatter.published);
+  }).filter(article => {
+    // published: true の記事、または platforms 指定がある記事を処理対象とする
+    return article.frontmatter.published || 
+           (article.frontmatter.platforms && Array.isArray(article.frontmatter.platforms) && article.frontmatter.platforms.length > 0);
+  });
 }
 
 // メイン実行
