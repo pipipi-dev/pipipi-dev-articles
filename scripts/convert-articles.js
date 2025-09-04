@@ -133,7 +133,13 @@ function convertToDevTo(article) {
   );
   
   const frontmatterStr = Object.entries(devtoFrontmatter)
-    .map(([key, value]) => `${key}: ${value}`)
+    .map(([key, value]) => {
+      // 文字列値はクォートで囲む（nullやbooleanは除く）
+      if (typeof value === 'string' && value !== null) {
+        return `${key}: "${value}"`;
+      }
+      return `${key}: ${value}`;
+    })
     .join('\n');
     
   return {
