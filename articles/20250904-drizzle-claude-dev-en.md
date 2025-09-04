@@ -3,7 +3,7 @@ title: "Drizzle ORM × Claude Code: Modern TypeScript Development"
 emoji: "🚀"
 type: "tech"
 topics: ["typescript", "drizzle", "orm", "database", "claudecode"]
-published: false
+published: false  # Auto-publish test
 platforms: ["devto"]
 ---
 
