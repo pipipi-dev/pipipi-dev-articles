@@ -1,16 +1,15 @@
 ---
-title: "Drizzle ORM × Claude Code：次世代のTypeScript開発体験"
+title: Drizzle ORM × Claude Code：次世代のTypeScript開発体験
 tags:
-  - "typescript"
-  - "drizzle"
-  - "orm"
-  - "claudecode"
+  - typescript
+  - drizzle
+  - orm
+  - claudecode
 private: false
-updated_at: "2025-09-04T14:06:43.191Z"
+updated_at: ""
 id: null
 organization_url_name: null
 slide: false
-ignorePublish: false
 ---
 
 

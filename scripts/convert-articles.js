@@ -80,17 +80,16 @@ function convertToQiita(article) {
     return null;
   }
   
-  // Qiita用のYAMLフロントマターを作成
-  const qiitaTags = frontmatter.topics ? frontmatter.topics.map(tag => `  - "${tag}"`).join('\n') : '';
-  const qiitaFrontmatterYaml = `title: "${frontmatter.title}"
+  // Qiita用のYAMLフロントマターを作成（標準フォーマットに準拠）
+  const qiitaTags = frontmatter.topics ? frontmatter.topics.map(tag => `  - ${tag}`).join('\n') : '';
+  const qiitaFrontmatterYaml = `title: ${frontmatter.title}
 tags:
 ${qiitaTags}
 private: false
-updated_at: "${new Date().toISOString()}"
+updated_at: ""
 id: null
 organization_url_name: null
-slide: false
-ignorePublish: false`;
+slide: false`;
   
   let qiitaContent = content;
   
