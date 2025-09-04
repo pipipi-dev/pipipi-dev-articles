@@ -46,7 +46,7 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git pull --no-rebase
-        git add qiita/public/ dev-to/
+        git add qiita/public/ dev-to/ config/published-articles.json
         
         # 変更がある場合のみコミット
         if ! git diff --staged --quiet; then
