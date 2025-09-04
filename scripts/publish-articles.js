@@ -3,6 +3,11 @@ const path = require('path');
 const axios = require('axios');
 const matter = require('gray-matter');
 
+// Load environment variables from .env.local if it exists
+if (fs.existsSync('.env.local')) {
+  require('dotenv').config({ path: '.env.local' });
+}
+
 // 記事データを保存するためのJSONファイル
 const ARTICLE_DATA_FILE = path.join(process.cwd(), 'config', 'published-articles.json');
 
@@ -52,7 +57,7 @@ async function publishToQiita(article, publishedData) {
         {
           title: parsed.data.title,
           body: parsed.content,
-          tags: parsed.data.tags,
+          tags: parsed.data.tags.map(tag => ({ name: tag })),
           private: parsed.data.private || false
         },
         {
@@ -74,7 +79,7 @@ async function publishToQiita(article, publishedData) {
         {
           title: parsed.data.title,
           body: parsed.content,
-          tags: parsed.data.tags,
+          tags: parsed.data.tags.map(tag => ({ name: tag })),
           private: parsed.data.private || false
         },
         {

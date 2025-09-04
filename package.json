@@ -27,13 +27,14 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^1.6.0",
+    "dotenv": "^17.2.2",
     "gray-matter": "^4.0.3",
     "js-yaml": "^4.1.0"
   },
   "devDependencies": {
     "@qiita/qiita-cli": "^1.0.0",
-    "zenn-cli": "^0.1.150",
-    "concurrently": "^8.2.0"
+    "concurrently": "^8.2.0",
+    "zenn-cli": "^0.1.150"
   },
   "repository": {
     "type": "git",
