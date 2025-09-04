@@ -90,7 +90,15 @@ async function publishToQiita(article, publishedData) {
     }
     
   } catch (error) {
-    console.error(`❌ Qiita投稿エラー (${article.slug}):`, error.response?.data || error.message);
+    console.error(`❌ Qiita投稿エラー (${article.slug}):`);
+    console.error('  Status:', error.response?.status);
+    console.error('  Headers:', error.response?.headers);
+    console.error('  Data:', error.response?.data || error.message);
+    console.error('  Config:', error.config ? {
+      url: error.config.url,
+      method: error.config.method,
+      headers: error.config.headers
+    } : 'No config');
     return null;
   }
 }
