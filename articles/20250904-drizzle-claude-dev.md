@@ -4,7 +4,9 @@ emoji: "🚀"
 type: "tech"
 topics: ["typescript", "drizzle", "orm", "claudecode"]
 published: true
-platforms: ["zenn", "qiita"]
+platforms:
+  qiita: true
+  devto: false
 ---
 
 ## 🎯 この記事の概要
