@@ -151,3 +151,7 @@ config/local.json
 # Temporary files
 temp/
 .env.local
+
+# Auto-generated platform folders (not committed)
+dev-to/
+qiita/

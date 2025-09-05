@@ -37,9 +37,12 @@ function getModifiedArticles() {
         fullContent: content
       };
     }).filter(Boolean).filter(article => {
-      // published: true の記事、または platforms 指定がある記事を変換対象とする
-      return article.frontmatter.published || 
-             (article.frontmatter.platforms && article.frontmatter.platforms.length > 0);
+      // published: true の記事、または platforms オブジェクトで true になっている記事を変換対象とする
+      const hasPlatformEnabled = article.frontmatter.platforms && 
+        typeof article.frontmatter.platforms === 'object' &&
+        Object.values(article.frontmatter.platforms).some(enabled => enabled === true);
+      
+      return article.frontmatter.published || hasPlatformEnabled;
     });
   } catch (error) {
     console.log('⚠️  Git差分取得に失敗、全記事を変換対象とします');
@@ -65,9 +68,12 @@ function getAllArticlesForConversion() {
       fullContent: content
     };
   }).filter(article => {
-    // published: true の記事、または platforms 指定がある記事を変換対象とする
-    return article.frontmatter.published || 
-           (article.frontmatter.platforms && article.frontmatter.platforms.length > 0);
+    // published: true の記事、または platforms オブジェクトで true になっている記事を変換対象とする
+    const hasPlatformEnabled = article.frontmatter.platforms && 
+      typeof article.frontmatter.platforms === 'object' &&
+      Object.values(article.frontmatter.platforms).some(enabled => enabled === true);
+    
+    return article.frontmatter.published || hasPlatformEnabled;
   });
 }
 
@@ -76,7 +82,7 @@ function convertToQiita(article) {
   const { frontmatter, content } = article;
   
   // プラットフォーム選択チェック
-  if (frontmatter.platforms && !frontmatter.platforms.includes('qiita')) {
+  if (frontmatter.platforms && !frontmatter.platforms.qiita) {
     return null;
   }
   
@@ -111,7 +117,7 @@ function convertToDevTo(article) {
   const { frontmatter, content } = article;
   
   // プラットフォーム選択チェック
-  if (frontmatter.platforms && !frontmatter.platforms.includes('devto')) {
+  if (frontmatter.platforms && !frontmatter.platforms.devto) {
     return null;
   }
   

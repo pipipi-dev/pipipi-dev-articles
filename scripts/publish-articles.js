@@ -31,9 +31,7 @@ function savePublishedData(data) {
 // Qiitaに投稿
 async function publishToQiita(article, publishedData) {
   if (!process.env.QIITA_API_TOKEN || process.env.QIITA_API_TOKEN.trim() === '') {
-    console.error('❌ QIITA_API_TOKEN が設定されていません！');
-    console.error('   GitHub Settings → Secrets → Actions で QIITA_API_TOKEN を設定してください');
-    console.error('   取得方法: https://qiita.com/settings/applications');
+    console.log('⏭️  QIITA_API_TOKEN が設定されていないため、Qiitaへの投稿をスキップします');
     return null;
   }
 
@@ -111,9 +109,7 @@ async function publishToQiita(article, publishedData) {
 // Dev.toに投稿
 async function publishToDevTo(article, publishedData) {
   if (!process.env.DEV_TO_API_KEY || process.env.DEV_TO_API_KEY.trim() === '') {
-    console.error('❌ DEV_TO_API_KEY が設定されていません！');
-    console.error('   GitHub Settings → Secrets → Actions で DEV_TO_API_KEY を設定してください');
-    console.error('   取得方法: https://dev.to/settings/extensions');
+    console.log('⏭️  DEV_TO_API_KEY が設定されていないため、Dev.toへの投稿をスキップします');
     return null;
   }
 
@@ -203,9 +199,12 @@ function getPublishedArticles() {
       content: parsed.content
     };
   }).filter(article => {
-    // published: true の記事、または platforms 指定がある記事を処理対象とする
-    return article.frontmatter.published || 
-           (article.frontmatter.platforms && Array.isArray(article.frontmatter.platforms) && article.frontmatter.platforms.length > 0);
+    // published: true の記事、または platforms オブジェクトで true になっている記事を処理対象とする
+    const hasPlatformEnabled = article.frontmatter.platforms && 
+      typeof article.frontmatter.platforms === 'object' &&
+      Object.values(article.frontmatter.platforms).some(enabled => enabled === true);
+    
+    return article.frontmatter.published || hasPlatformEnabled;
   });
 }
 
