@@ -221,15 +221,21 @@ async function main() {
     console.log(`\n📄 処理中: ${article.filename}`);
     
     // プラットフォーム選択の確認
-    const platforms = article.frontmatter.platforms || ['zenn', 'qiita', 'devto'];
-    console.log(`🎯 対象プラットフォーム: ${platforms.join(', ')}`);
+    const platforms = article.frontmatter.platforms || { qiita: true, devto: true };
+    const enabledPlatforms = Object.keys(platforms).filter(key => platforms[key]);
+    
+    // プラットフォーム表示（Zennは別途published判定）
+    const platformsDisplay = [];
+    if (article.frontmatter.published) platformsDisplay.push('zenn');
+    platformsDisplay.push(...enabledPlatforms);
+    console.log(`🎯 対象プラットフォーム: ${platformsDisplay.join(', ')}`);
     
     if (!publishedData[article.slug]) {
       publishedData[article.slug] = {};
     }
     
     // Qiita投稿
-    if (platforms.includes('qiita')) {
+    if (enabledPlatforms.includes('qiita')) {
       const qiitaResult = await publishToQiita(article, publishedData);
       if (qiitaResult) {
         publishedData[article.slug].qiita_id = qiitaResult.id;
@@ -240,7 +246,7 @@ async function main() {
     }
     
     // Dev.to投稿
-    if (platforms.includes('devto')) {
+    if (enabledPlatforms.includes('devto')) {
       const devtoResult = await publishToDevTo(article, publishedData);
       if (devtoResult) {
         publishedData[article.slug].devto_id = devtoResult.id;
@@ -251,7 +257,7 @@ async function main() {
     }
     
     // Zenn（GitHub連携のため、投稿処理は不要）
-    if (platforms.includes('zenn')) {
+    if (article.frontmatter.published) {
       console.log('✅ Zenn: GitHub連携により自動投稿されます');
     }
     
