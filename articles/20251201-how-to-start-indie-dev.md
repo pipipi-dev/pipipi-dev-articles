@@ -7,7 +7,7 @@ published: true
 platforms:
   qiita: true
   zenn: true
-  devto: true
+  devto: false
 ---
 
 この記事は、**ひとりで作るSaaS - 設計・実装・運用の記録 Advent Calendar 2025** の1日目の記事です。
