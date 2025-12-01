@@ -155,3 +155,6 @@ temp/
 # Auto-generated platform folders (not committed)
 dev-to/
 qiita/
+
+# Drafts (work in progress, not committed)
+drafts/
