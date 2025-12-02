@@ -1,5 +1,5 @@
 ---
-title: "Tech Selection for AI-Driven Development: How to Choose the Right Stack"
+title: "Tech Selection for AI-Driven Development: Choosing the Right Stack"
 emoji: "🤖"
 type: "tech"
 topics: ["indiedev", "nextjs", "typescript", "ai"]
