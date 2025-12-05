@@ -8,7 +8,9 @@ https://adventar.org/calendars/12464
 
 この記事では、複数のツールを使い分ける煩わしさについて書きます。
 
-技術的な話は [Qiitaのアドベントカレンダー](https://qiita.com/advent-calendar/2025/solo-dev-memoreru) で書いています。ご興味のある方は、そちらもご覧ください。
+技術的な話はQiitaのアドベントカレンダーで書いています。ご興味のある方は、そちらもご覧ください。
+
+https://qiita.com/advent-calendar/2025/solo-dev-memoreru
 
 ---
 
