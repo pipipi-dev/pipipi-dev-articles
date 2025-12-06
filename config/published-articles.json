@@ -56,5 +56,13 @@
   "20251205-git-branch-strategy": {
     "qiita_id": "6f3bfdb2b349df6c0826",
     "qiita_url": "https://qiita.com/pipipi-dev/items/6f3bfdb2b349df6c0826"
+  },
+  "20251206-supabase-schema-design-en": {
+    "devto_id": 3088387,
+    "devto_url": "https://dev.to/pipipi-dev/schema-design-with-supabase-partitioning-and-normalization-4b7i"
+  },
+  "20251206-supabase-schema-design": {
+    "qiita_id": "f3b51d8909ab3f8c8c9c",
+    "qiita_url": "https://qiita.com/pipipi-dev/items/f3b51d8909ab3f8c8c9c"
   }
 }
