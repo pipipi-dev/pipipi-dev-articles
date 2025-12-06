@@ -12,7 +12,7 @@ platforms:
 
 This is Day 6 of **Building SaaS Solo - Design, Implementation, and Operation Advent Calendar 2025**.
 
-Yesterday I wrote about "Git Branch Strategy." Today I'll explain schema design with Supabase.
+Yesterday I wrote about Git Branch Strategy. Today I'll explain schema design with Supabase.
 
 ## 🎯 Why Separate Schemas?
 
