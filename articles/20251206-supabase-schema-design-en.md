@@ -233,12 +233,12 @@ Here's what I've learned from schema design in Memoreru.
 
 Being conscious of schema design even in indie development significantly impacts future extensibility and maintainability.
 
-Tomorrow I'll explain "Database ID Design: Choosing Between UUID, CUID2, Sequential IDs, and More."
+Tomorrow I'll explain "Database ID Design: Choosing ID Methods and Primary Key Strategies."
 
 ---
 
 **Other articles in this series**
 
 - 12/5: Git Branch Strategy: A Practical Workflow for Indie Development
-- 12/7: Database ID Design: Choosing Between UUID, CUID2, Sequential IDs, and More
+- 12/7: Database ID Design: Choosing ID Methods and Primary Key Strategies
 
