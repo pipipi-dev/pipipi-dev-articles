@@ -64,5 +64,13 @@
   "20251206-supabase-schema-design": {
     "qiita_id": "f3b51d8909ab3f8c8c9c",
     "qiita_url": "https://qiita.com/pipipi-dev/items/f3b51d8909ab3f8c8c9c"
+  },
+  "20251207-database-id-design-en": {
+    "devto_id": 3089749,
+    "devto_url": "https://dev.to/pipipi-dev/database-id-design-choosing-id-methods-and-primary-key-strategies-49h4"
+  },
+  "20251207-database-id-design": {
+    "qiita_id": "b0bd2f7ab164f8957790",
+    "qiita_url": "https://qiita.com/pipipi-dev/items/b0bd2f7ab164f8957790"
   }
 }
