@@ -3,7 +3,7 @@ title: "Database ID Design: Choosing ID Methods and Primary Key Strategies"
 emoji: "🔑"
 type: "tech"
 topics: ["IndieHacker", "Supabase", "PostgreSQL", "Database"]
-published: true
+published: false
 platforms:
   qiita: false
   zenn: false
