@@ -189,11 +189,11 @@ Here's what I've learned from ID design.
 
 As concluded in the video, the optimal ID depends on your project's requirements. Choose what fits your use case.
 
-Tomorrow I'll explain "Database Migration Best Practices: How to Safely Apply Changes."
+Tomorrow I'll explain "Database Migration Best Practices: Safely Managing Dev and Production Environments."
 
 ---
 
 **Other articles in this series**
 
 - 12/6: Schema Design with Supabase: Table Partitioning and Normalization in Practice
-- 12/8: Database Migration Best Practices: How to Safely Apply Changes
+- 12/8: Database Migration Best Practices: Safely Managing Dev and Production Environments
