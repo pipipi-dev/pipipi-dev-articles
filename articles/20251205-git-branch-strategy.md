@@ -10,7 +10,7 @@ platforms:
   devto: false
 ---
 
-この記事は、**ひとりで作るSaaS - 設計・実装・運用の記録 Advent Calendar 2025** の5日目の記事です。
+この記事は、**[ひとりで作るSaaS - 設計・実装・運用の記録 Advent Calendar 2025](https://adventar.org/calendars/12615)** の5日目の記事です。
 
 昨日の記事では「個人開発のドキュメント戦略」について書きました。今日は、個人開発におけるGitブランチ戦略について書きます。
 

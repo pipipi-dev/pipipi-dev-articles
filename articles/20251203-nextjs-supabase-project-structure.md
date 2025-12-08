@@ -10,7 +10,7 @@ platforms:
   devto: false
 ---
 
-この記事は、**ひとりで作るSaaS - 設計・実装・運用の記録 Advent Calendar 2025** の3日目の記事です。
+この記事は、**[ひとりで作るSaaS - 設計・実装・運用の記録 Advent Calendar 2025](https://adventar.org/calendars/12615)** の3日目の記事です。
 
 昨日の記事では「AI駆動開発のための技術選定」について書きました。この記事では、Next.js + Supabase + Vercelを使ったプロジェクトの全体像について解説します。
 

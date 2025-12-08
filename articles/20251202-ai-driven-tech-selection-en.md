@@ -10,7 +10,7 @@ platforms:
   devto: true
 ---
 
-This is Day 2 of the **Building a SaaS Solo - Design, Implementation, and Operations Advent Calendar 2025**.
+This is Day 2 of the **[Building a SaaS Solo - Design, Implementation, and Operations Advent Calendar 2025](https://adventar.org/calendars/12615)**.
 
 Yesterday's article covered "How to Start Indie Development." Today, I'll dive deeper into tech selection, which is crucial for AI-driven development.
 

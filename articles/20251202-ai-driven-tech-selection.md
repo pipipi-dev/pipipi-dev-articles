@@ -10,7 +10,7 @@ platforms:
   devto: false
 ---
 
-この記事は、**ひとりで作るSaaS - 設計・実装・運用の記録 Advent Calendar 2025** の2日目の記事です。
+この記事は、**[ひとりで作るSaaS - 設計・実装・運用の記録 Advent Calendar 2025](https://adventar.org/calendars/12615)** の2日目の記事です。
 
 昨日の記事では「個人開発の始め方」について書きました。今日は、AI駆動開発において重要な「技術選定」について深掘りします。
 

@@ -10,7 +10,7 @@ platforms:
   devto: true
 ---
 
-This is Day 4 of **Building SaaS Solo - Design, Implementation, and Operation Advent Calendar 2025**.
+This is Day 4 of **[Building SaaS Solo - Design, Implementation, and Operation Advent Calendar 2025](https://adventar.org/calendars/12615)**.
 
 Yesterday I wrote about "Starting Indie Development with Next.js + Supabase." Today I'll share my documentation strategy for indie development.
 

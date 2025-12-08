@@ -10,7 +10,7 @@ platforms:
   devto: false
 ---
 
-この記事は、**ひとりでつくるSaaS - 設計・実装・運用の記録 Advent Calendar 2025** の7日目の記事です。
+この記事は、**[ひとりでつくるSaaS - 設計・実装・運用の記録 Advent Calendar 2025](https://adventar.org/calendars/12615)** の7日目の記事です。
 
 昨日の記事では「Supabaseでスキーマ設計」について書きました。この記事では、データベースのID設計について解説します。
 

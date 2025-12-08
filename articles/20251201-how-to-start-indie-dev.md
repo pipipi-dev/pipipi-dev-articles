@@ -10,7 +10,7 @@ platforms:
   devto: false
 ---
 
-この記事は、**ひとりで作るSaaS - 設計・実装・運用の記録 Advent Calendar 2025** の1日目の記事です。
+この記事は、**[ひとりで作るSaaS - 設計・実装・運用の記録 Advent Calendar 2025](https://adventar.org/calendars/12615)** の1日目の記事です。
 
 25日間にわたって、私が開発しているプロダクトから学んだ技術的な知見を共有していきます。
 

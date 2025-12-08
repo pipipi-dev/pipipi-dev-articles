@@ -10,7 +10,7 @@ platforms:
   devto: true
 ---
 
-This is Day 5 of **Building SaaS Solo - Design, Implementation, and Operation Advent Calendar 2025**.
+This is Day 5 of **[Building SaaS Solo - Design, Implementation, and Operation Advent Calendar 2025](https://adventar.org/calendars/12615)**.
 
 Yesterday I wrote about "Documentation Strategy for Indie Development." Today I'll share my Git branching strategy for indie development.
 

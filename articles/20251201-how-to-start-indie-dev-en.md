@@ -10,7 +10,7 @@ platforms:
   devto: true
 ---
 
-This is Day 1 of the **Building a SaaS Solo - Design, Implementation, and Operations Advent Calendar 2025**.
+This is Day 1 of the **[Building a SaaS Solo - Design, Implementation, and Operations Advent Calendar 2025](https://adventar.org/calendars/12615)**.
 
 Over 25 days, I'll share technical insights from developing my own product.
 

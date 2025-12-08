@@ -10,7 +10,7 @@ platforms:
   devto: true
 ---
 
-This is Day 7 of **Building SaaS Solo - Design, Implementation, and Operation Advent Calendar 2025**.
+This is Day 7 of **[Building SaaS Solo - Design, Implementation, and Operation Advent Calendar 2025](https://adventar.org/calendars/12615)**.
 
 Yesterday I wrote about "Schema Design with Supabase." Today I'll explain database ID design.
 

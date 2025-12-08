@@ -10,7 +10,7 @@ platforms:
   devto: true
 ---
 
-This is Day 3 of the **Building a SaaS Solo - Design, Implementation, and Operations Advent Calendar 2025**.
+This is Day 3 of the **[Building a SaaS Solo - Design, Implementation, and Operations Advent Calendar 2025](https://adventar.org/calendars/12615)**.
 
 Yesterday's article covered "Tech Selection for AI-Driven Development." Today, I'll explain the overall project structure using Next.js + Supabase + Vercel.
 

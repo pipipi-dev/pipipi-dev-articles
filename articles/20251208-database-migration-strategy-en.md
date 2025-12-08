@@ -10,7 +10,7 @@ platforms:
   devto: true
 ---
 
-This is Day 8 of **Building SaaS Solo - Design, Implementation, and Operation Advent Calendar 2025**.
+This is Day 8 of **[Building SaaS Solo - Design, Implementation, and Operation Advent Calendar 2025](https://adventar.org/calendars/12615)**.
 
 Yesterday I wrote about "Database ID Design." Today I'll explain how to manage database migrations.
 
