@@ -72,5 +72,13 @@
   "20251207-database-id-design": {
     "qiita_id": "b0bd2f7ab164f8957790",
     "qiita_url": "https://qiita.com/pipipi-dev/items/b0bd2f7ab164f8957790"
+  },
+  "20251208-database-migration-strategy-en": {
+    "devto_id": 3091167,
+    "devto_url": "https://dev.to/pipipi-dev/database-migration-safely-managing-dev-and-production-environments-2nfh"
+  },
+  "20251208-database-migration-strategy": {
+    "qiita_id": "06d4220b0c8ddac2e33a",
+    "qiita_url": "https://qiita.com/pipipi-dev/items/06d4220b0c8ddac2e33a"
   }
 }
