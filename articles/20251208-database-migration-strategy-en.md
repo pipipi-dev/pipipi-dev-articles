@@ -232,11 +232,11 @@ Here's what I've learned from database migration operations.
 
 Even for indie development, establishing rules from the start prevents problems later.
 
-Tomorrow I'll explain "Migrating from NextAuth.js to Better Auth: A Practical Guide."
+Tomorrow I'll explain "Migrating from NextAuth.js to Better Auth: Why I Switched Authentication Libraries."
 
 ---
 
-**Other articles in this series**
+**Other Articles in This Series**
 
-- 12/7: Database ID Design: Choosing ID Methods and Primary Key Strategies
-- 12/9: Migrating from NextAuth.js to Better Auth: A Practical Guide
+- Day 7: Database ID Design: Choosing ID Methods and Primary Key Strategies
+- Day 9: Migrating from NextAuth.js to Better Auth: Why I Switched Authentication Libraries
