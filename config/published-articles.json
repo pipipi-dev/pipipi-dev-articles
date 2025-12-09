@@ -80,5 +80,13 @@
   "20251208-database-migration-strategy": {
     "qiita_id": "06d4220b0c8ddac2e33a",
     "qiita_url": "https://qiita.com/pipipi-dev/items/06d4220b0c8ddac2e33a"
+  },
+  "20251209-nextauth-to-better-auth-en": {
+    "devto_id": 3093684,
+    "devto_url": "https://dev.to/pipipi-dev/nextauthjs-to-better-auth-why-i-switched-auth-libraries-31h3"
+  },
+  "20251209-nextauth-to-better-auth": {
+    "qiita_id": "61f98a88cc78c0e3efc5",
+    "qiita_url": "https://qiita.com/pipipi-dev/items/61f98a88cc78c0e3efc5"
   }
 }
