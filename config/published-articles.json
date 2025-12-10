@@ -88,5 +88,13 @@
   "20251209-nextauth-to-better-auth": {
     "qiita_id": "61f98a88cc78c0e3efc5",
     "qiita_url": "https://qiita.com/pipipi-dev/items/61f98a88cc78c0e3efc5"
+  },
+  "20251210-app-router-directory-design-en": {
+    "devto_id": 3096312,
+    "devto_url": "https://dev.to/pipipi-dev/app-router-directory-design-nextjs-project-structure-patterns-31eo"
+  },
+  "20251210-app-router-directory-design": {
+    "qiita_id": "eb487f8863f5c0092c2a",
+    "qiita_url": "https://qiita.com/pipipi-dev/items/eb487f8863f5c0092c2a"
   }
 }
