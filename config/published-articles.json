@@ -96,5 +96,13 @@
   "20251210-app-router-directory-design": {
     "qiita_id": "eb487f8863f5c0092c2a",
     "qiita_url": "https://qiita.com/pipipi-dev/items/eb487f8863f5c0092c2a"
+  },
+  "20251211-mpa-to-spa-migration-en": {
+    "devto_id": 3098747,
+    "devto_url": "https://dev.to/pipipi-dev/why-i-migrated-from-mpa-to-spa-app-router-refactoring-in-practice-39nn"
+  },
+  "20251211-mpa-to-spa-migration": {
+    "qiita_id": "480b9656ba817dce49b0",
+    "qiita_url": "https://qiita.com/pipipi-dev/items/480b9656ba817dce49b0"
   }
 }
