@@ -104,5 +104,13 @@
   "20251211-mpa-to-spa-migration": {
     "qiita_id": "480b9656ba817dce49b0",
     "qiita_url": "https://qiita.com/pipipi-dev/items/480b9656ba817dce49b0"
+  },
+  "20251212-route-handler-to-hono-en": {
+    "devto_id": 3100959,
+    "devto_url": "https://dev.to/pipipi-dev/from-nextjs-route-handler-to-hono-why-api-design-got-easier-3jo1"
+  },
+  "20251212-route-handler-to-hono": {
+    "qiita_id": "90c4258c7e282285fc92",
+    "qiita_url": "https://qiita.com/pipipi-dev/items/90c4258c7e282285fc92"
   }
 }
