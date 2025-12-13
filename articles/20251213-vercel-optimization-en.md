@@ -3,7 +3,7 @@ title: "Vercel Optimization: Reducing Build Time and Improving Response"
 emoji: "⚡"
 type: "tech"
 topics: ["nextjs", "vercel", "performance", "typescript"]
-published: true
+published: false
 platforms:
   qiita: false
   zenn: false
