@@ -112,5 +112,13 @@
   "20251212-route-handler-to-hono": {
     "qiita_id": "90c4258c7e282285fc92",
     "qiita_url": "https://qiita.com/pipipi-dev/items/90c4258c7e282285fc92"
+  },
+  "20251213-vercel-optimization-en": {
+    "devto_id": 3102950,
+    "devto_url": "https://dev.to/pipipi-dev/vercel-optimization-reducing-build-time-and-improving-response-2eji"
+  },
+  "20251213-vercel-optimization": {
+    "qiita_id": "335c9c6c2967c55a0d6d",
+    "qiita_url": "https://qiita.com/pipipi-dev/items/335c9c6c2967c55a0d6d"
   }
 }
