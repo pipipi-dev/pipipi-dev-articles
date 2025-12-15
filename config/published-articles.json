@@ -128,5 +128,13 @@
   "20251214-mobile-first-responsive": {
     "qiita_id": "983103af7bcfeddfd041",
     "qiita_url": "https://qiita.com/pipipi-dev/items/983103af7bcfeddfd041"
+  },
+  "20251215-infinite-scroll-zustand-en": {
+    "devto_id": 3105609,
+    "devto_url": "https://dev.to/pipipi-dev/infinite-scroll-with-zustand-and-react-19-async-pitfalls-57c"
+  },
+  "20251215-infinite-scroll-zustand": {
+    "qiita_id": "426750093978f966ffb1",
+    "qiita_url": "https://qiita.com/pipipi-dev/items/426750093978f966ffb1"
   }
 }
