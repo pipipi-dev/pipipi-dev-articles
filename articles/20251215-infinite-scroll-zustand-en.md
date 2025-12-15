@@ -16,7 +16,7 @@ Yesterday's article covered "Mobile-First Design." This article explains the pit
 
 ## 🎯 What is Infinite Scroll?
 
-Infinite scroll is a mechanism that automatically loads the next content when a user approaches the bottom of the page. It's a familiar UI pattern from Twitter and Instagram.
+Infinite scroll is a mechanism that automatically loads the next content when a user approaches the bottom of the page. It's a familiar UI pattern from X and Instagram.
 
 Compared to traditional pagination (clicking a "Next" button), it offers a more seamless user experience. However, implementation comes with unexpected pitfalls.
 
