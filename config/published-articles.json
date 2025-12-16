@@ -136,5 +136,13 @@
   "20251215-infinite-scroll-zustand": {
     "qiita_id": "426750093978f966ffb1",
     "qiita_url": "https://qiita.com/pipipi-dev/items/426750093978f966ffb1"
+  },
+  "20251216-excel-like-table-en": {
+    "devto_id": 3107676,
+    "devto_url": "https://dev.to/pipipi-dev/building-no-code-excel-like-tables-implementing-drag-drop-ui-3e9n"
+  },
+  "20251216-excel-like-table": {
+    "qiita_id": "5ffc7e21f87a397a2577",
+    "qiita_url": "https://qiita.com/pipipi-dev/items/5ffc7e21f87a397a2577"
   }
 }
