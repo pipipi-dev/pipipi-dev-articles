@@ -152,5 +152,13 @@
   "20251217-semantic-search-pgvector": {
     "qiita_id": "b5c7e2d189657e850ac9",
     "qiita_url": "https://qiita.com/pipipi-dev/items/b5c7e2d189657e850ac9"
+  },
+  "20251218-typescript-strict-mode.en": {
+    "devto_id": 3112254,
+    "devto_url": "https://dev.to/pipipi-dev/typescript-strict-mode-in-practice-catching-bugs-with-type-safety-2jo9"
+  },
+  "20251218-typescript-strict-mode": {
+    "qiita_id": "d4a3fbf54e2d86421ff9",
+    "qiita_url": "https://qiita.com/pipipi-dev/items/d4a3fbf54e2d86421ff9"
   }
 }
