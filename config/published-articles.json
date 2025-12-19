@@ -160,5 +160,17 @@
   "20251218-typescript-strict-mode": {
     "qiita_id": "d4a3fbf54e2d86421ff9",
     "qiita_url": "https://qiita.com/pipipi-dev/items/d4a3fbf54e2d86421ff9"
+  },
+  "20251218-typescript-strict-mode-en": {
+    "devto_id": 3114765,
+    "devto_url": "https://dev.to/pipipi-dev/typescript-strict-mode-in-practice-catching-bugs-with-type-safety-3kbk"
+  },
+  "20251219-security-essentials-solo-dev-en": {
+    "devto_id": 3114766,
+    "devto_url": "https://dev.to/pipipi-dev/what-the-react-2025-vulnerability-taught-me-about-solo-dev-security-4hbl"
+  },
+  "20251219-security-essentials-solo-dev": {
+    "qiita_id": "088179593205e2b1f748",
+    "qiita_url": "https://qiita.com/pipipi-dev/items/088179593205e2b1f748"
   }
 }
