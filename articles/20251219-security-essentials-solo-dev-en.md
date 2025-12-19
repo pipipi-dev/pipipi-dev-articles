@@ -22,6 +22,8 @@ In December 2025, critical vulnerabilities were discovered in the Next.js/React 
 
 On December 3, 2025, a remote code execution vulnerability in React Server Components was disclosed. The CVSS score, which indicates severity, is 10.0—the maximum possible value.
 
+https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components
+
 - **Affected**: All applications using React 19.0 to 19.2.0
 - **Attack vector**: Malicious HTTP requests can execute arbitrary code on the server
 - **Affected frameworks**: Next.js, React Router, Waku, Parcel RSC, and others
@@ -40,6 +42,8 @@ https://x.com/pipipi_dev/status/1996301018532118914
 ### Multiple Node.js Vulnerabilities
 
 Also in December 2025, multiple vulnerabilities were reported in Node.js.
+
+https://nodejs.org/en/blog/vulnerability/december-2025-security-releases
 
 | Severity | Count | Affected Versions |
 |----------|-------|-------------------|

@@ -22,6 +22,8 @@ platforms:
 
 2025年12月3日、React Server Componentsにリモートコード実行の脆弱性が公開されました。深刻度を示すCVSSスコアは10.0で、これは最高値です。
 
+https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components
+
 - **影響範囲**: React 19.0〜19.2.0を使用するすべてのアプリケーション
 - **攻撃方法**: 悪意あるHTTPリクエストでサーバー上で任意のコードを実行可能
 - **対象フレームワーク**: Next.js、React Router、Waku、Parcel RSCなど
@@ -40,6 +42,8 @@ https://x.com/pipipi_dev/status/1996301018532118914
 ### Node.jsの複数の脆弱性
 
 同じく2025年12月、Node.jsにも複数の脆弱性が報告されています。
+
+https://nodejs.org/ja/blog/vulnerability/december-2025-security-releases
 
 | 深刻度 | 件数 | 影響バージョン |
 |--------|------|----------------|
