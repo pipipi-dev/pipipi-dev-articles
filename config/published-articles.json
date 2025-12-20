@@ -172,5 +172,13 @@
   "20251219-security-essentials-solo-dev": {
     "qiita_id": "088179593205e2b1f748",
     "qiita_url": "https://qiita.com/pipipi-dev/items/088179593205e2b1f748"
+  },
+  "20251220-stripe-pricing-design-en": {
+    "devto_id": 3116714,
+    "devto_url": "https://dev.to/pipipi-dev/tiered-pricing-with-stripe-monetization-for-solo-developers-nec"
+  },
+  "20251220-stripe-pricing-design": {
+    "qiita_id": "63b6b3b7e2c8cd9f14f0",
+    "qiita_url": "https://qiita.com/pipipi-dev/items/63b6b3b7e2c8cd9f14f0"
   }
 }
