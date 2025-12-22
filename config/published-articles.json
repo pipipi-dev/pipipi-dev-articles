@@ -188,5 +188,13 @@
   "20251221-ga4-clarity-analytics": {
     "qiita_id": "88dcaecd431124a1a7fe",
     "qiita_url": "https://qiita.com/pipipi-dev/items/88dcaecd431124a1a7fe"
+  },
+  "20251222-multi-tenant-saas-en": {
+    "devto_id": 3119828,
+    "devto_url": "https://dev.to/pipipi-dev/building-multi-tenant-saas-as-a-solo-developer-1pi9"
+  },
+  "20251222-multi-tenant-saas": {
+    "qiita_id": "b9d99e2766f4caf3da6d",
+    "qiita_url": "https://qiita.com/pipipi-dev/items/b9d99e2766f4caf3da6d"
   }
 }
