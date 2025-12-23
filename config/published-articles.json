@@ -196,5 +196,13 @@
   "20251222-multi-tenant-saas": {
     "qiita_id": "b9d99e2766f4caf3da6d",
     "qiita_url": "https://qiita.com/pipipi-dev/items/b9d99e2766f4caf3da6d"
+  },
+  "20251223-claude-code-ai-pair-programming-en": {
+    "devto_id": 3122137,
+    "devto_url": "https://dev.to/pipipi-dev/how-claude-code-changed-my-solo-dev-workflow-ai-pair-programming-2ngi"
+  },
+  "20251223-claude-code-ai-pair-programming": {
+    "qiita_id": "01c1d9c9777366a86d96",
+    "qiita_url": "https://qiita.com/pipipi-dev/items/01c1d9c9777366a86d96"
   }
 }
