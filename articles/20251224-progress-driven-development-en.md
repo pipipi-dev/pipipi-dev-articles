@@ -343,6 +343,7 @@ Then displays detailed per-feature information in matrix format.
 
 ```
 Legend: [n]Not started [s]Started [d]Draft [r]Reviewed [x]Done [-]N/A
+Steps: [1]spec [2]design [3]database [4]ui [5]api [6]usecase [7]repository [8]unit-test [9]guide [10]review
 
 🚀 01 Auth
   01 User Registration  [██████░░░░] 63% [x] [x] [x] [-] [-] [x] [x] [n] [n] [n]
@@ -354,7 +355,7 @@ Legend: [n]Not started [s]Started [d]Draft [r]Reviewed [x]Done [-]N/A
   02 Public             [███████░░░] 67% [x] [x] [-] [-] [-] [x] [x] [n] [-] [n]
 ```
 
-In my environment, I display with color coding in the terminal (green=complete, yellow=in progress, gray=not started, etc.).
+In my environment, I display with color coding in the terminal (green=80%+, yellow=50%+, red=below 50%).
 
 ## 🚀 Development Workflow
 
