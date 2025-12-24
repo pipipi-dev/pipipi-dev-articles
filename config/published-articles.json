@@ -204,5 +204,13 @@
   "20251223-claude-code-ai-pair-programming": {
     "qiita_id": "01c1d9c9777366a86d96",
     "qiita_url": "https://qiita.com/pipipi-dev/items/01c1d9c9777366a86d96"
+  },
+  "20251224-progress-driven-development-en": {
+    "devto_id": 3124581,
+    "devto_url": "https://dev.to/pipipi-dev/progress-driven-development-pdd-solo-development-with-ai-agents-1844"
+  },
+  "20251224-progress-driven-development": {
+    "qiita_id": "23dc2e28e0f81b82cbaf",
+    "qiita_url": "https://qiita.com/pipipi-dev/items/23dc2e28e0f81b82cbaf"
   }
 }
