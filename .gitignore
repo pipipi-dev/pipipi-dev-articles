@@ -158,3 +158,9 @@ qiita/
 
 # Drafts (work in progress, not committed)
 drafts/
+
+# Memoreru CLI 実行時 artifact (スナップショット/状態)
+.memoreru/
+
+# Claude Code 用の作業指示 (ローカル専用、公開しない)
+CLAUDE.md

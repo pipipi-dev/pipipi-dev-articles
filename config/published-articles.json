@@ -5,7 +5,9 @@
   },
   "20250904-drizzle-claude-dev": {
     "qiita_id": "b80ca97f3874064cfbd1",
-    "qiita_url": "https://qiita.com/pipipi-dev/items/b80ca97f3874064cfbd1"
+    "qiita_url": "https://qiita.com/pipipi-dev/items/b80ca97f3874064cfbd1",
+    "memoreru_id": "fjebpfy05r5sekakvb1drmpj",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/fjebpfy05r5sekakvb1drmpj"
   },
   "20250907-apidog-mcp-claude-code-en": {
     "devto_id": 2825647,
@@ -13,7 +15,9 @@
   },
   "20250907-apidog-mcp-claude-code": {
     "qiita_id": "6bc4a0f6ca63e9824308",
-    "qiita_url": "https://qiita.com/pipipi-dev/items/6bc4a0f6ca63e9824308"
+    "qiita_url": "https://qiita.com/pipipi-dev/items/6bc4a0f6ca63e9824308",
+    "memoreru_id": "c7b2w7u1annkyge9yo38b6wd",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/c7b2w7u1annkyge9yo38b6wd"
   },
   "20251201-how-to-start-indie-dev-en": {
     "devto_id": 3075062,
@@ -23,7 +27,9 @@
     "qiita_id": "8f2d7bb04123f2516f5f",
     "qiita_url": "https://qiita.com/pipipi-dev/items/8f2d7bb04123f2516f5f",
     "devto_id": 3075063,
-    "devto_url": "https://dev.to/pipipi-dev/ge-ren-kai-fa-noshi-mefang-aideakarazui-chu-nokomitutomade-2a8c"
+    "devto_url": "https://dev.to/pipipi-dev/ge-ren-kai-fa-noshi-mefang-aideakarazui-chu-nokomitutomade-2a8c",
+    "memoreru_id": "sig9517lj4ay2e2gju1jb7d4",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/sig9517lj4ay2e2gju1jb7d4"
   },
   "20251202-ai-driven-tech-selection-en": {
     "devto_id": 3078057,
@@ -31,7 +37,9 @@
   },
   "20251202-ai-driven-tech-selection": {
     "qiita_id": "7a0c18ed76aed53c45fa",
-    "qiita_url": "https://qiita.com/pipipi-dev/items/7a0c18ed76aed53c45fa"
+    "qiita_url": "https://qiita.com/pipipi-dev/items/7a0c18ed76aed53c45fa",
+    "memoreru_id": "j89sry0sj4dja4aomlfs5qqd",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/j89sry0sj4dja4aomlfs5qqd"
   },
   "20251203-nextjs-supabase-project-structure-en": {
     "devto_id": 3080572,
@@ -39,7 +47,9 @@
   },
   "20251203-nextjs-supabase-project-structure": {
     "qiita_id": "1d2108d99ee486339d05",
-    "qiita_url": "https://qiita.com/pipipi-dev/items/1d2108d99ee486339d05"
+    "qiita_url": "https://qiita.com/pipipi-dev/items/1d2108d99ee486339d05",
+    "memoreru_id": "xbxnr2g57v7jlcrm07wrmmbn",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/xbxnr2g57v7jlcrm07wrmmbn"
   },
   "20251204-indie-dev-documentation-strategy-en": {
     "devto_id": 3082927,
@@ -47,7 +57,9 @@
   },
   "20251204-indie-dev-documentation-strategy": {
     "qiita_id": "0b82a482797c9046fd0e",
-    "qiita_url": "https://qiita.com/pipipi-dev/items/0b82a482797c9046fd0e"
+    "qiita_url": "https://qiita.com/pipipi-dev/items/0b82a482797c9046fd0e",
+    "memoreru_id": "glex6gi64fvciegg21o8kfgh",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/glex6gi64fvciegg21o8kfgh"
   },
   "20251205-git-branch-strategy-en": {
     "devto_id": 3085453,
@@ -55,7 +67,9 @@
   },
   "20251205-git-branch-strategy": {
     "qiita_id": "6f3bfdb2b349df6c0826",
-    "qiita_url": "https://qiita.com/pipipi-dev/items/6f3bfdb2b349df6c0826"
+    "qiita_url": "https://qiita.com/pipipi-dev/items/6f3bfdb2b349df6c0826",
+    "memoreru_id": "owusfs7jzz9gmz85gljg73vq",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/owusfs7jzz9gmz85gljg73vq"
   },
   "20251206-supabase-schema-design-en": {
     "devto_id": 3088387,
@@ -63,7 +77,9 @@
   },
   "20251206-supabase-schema-design": {
     "qiita_id": "f3b51d8909ab3f8c8c9c",
-    "qiita_url": "https://qiita.com/pipipi-dev/items/f3b51d8909ab3f8c8c9c"
+    "qiita_url": "https://qiita.com/pipipi-dev/items/f3b51d8909ab3f8c8c9c",
+    "memoreru_id": "bo3pl4t8hsckzten1p9mahoo",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/bo3pl4t8hsckzten1p9mahoo"
   },
   "20251207-database-id-design-en": {
     "devto_id": 3089749,
@@ -71,7 +87,9 @@
   },
   "20251207-database-id-design": {
     "qiita_id": "b0bd2f7ab164f8957790",
-    "qiita_url": "https://qiita.com/pipipi-dev/items/b0bd2f7ab164f8957790"
+    "qiita_url": "https://qiita.com/pipipi-dev/items/b0bd2f7ab164f8957790",
+    "memoreru_id": "hyo7h878unx4exhv097bfneq",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/hyo7h878unx4exhv097bfneq"
   },
   "20251208-database-migration-strategy-en": {
     "devto_id": 3091167,
@@ -79,7 +97,9 @@
   },
   "20251208-database-migration-strategy": {
     "qiita_id": "06d4220b0c8ddac2e33a",
-    "qiita_url": "https://qiita.com/pipipi-dev/items/06d4220b0c8ddac2e33a"
+    "qiita_url": "https://qiita.com/pipipi-dev/items/06d4220b0c8ddac2e33a",
+    "memoreru_id": "v21d6krr5p63mkfp02v3alcr",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/v21d6krr5p63mkfp02v3alcr"
   },
   "20251209-nextauth-to-better-auth-en": {
     "devto_id": 3093684,
@@ -87,7 +107,9 @@
   },
   "20251209-nextauth-to-better-auth": {
     "qiita_id": "61f98a88cc78c0e3efc5",
-    "qiita_url": "https://qiita.com/pipipi-dev/items/61f98a88cc78c0e3efc5"
+    "qiita_url": "https://qiita.com/pipipi-dev/items/61f98a88cc78c0e3efc5",
+    "memoreru_id": "bqa2gxlutap47vux4won9pzo",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/bqa2gxlutap47vux4won9pzo"
   },
   "20251210-app-router-directory-design-en": {
     "devto_id": 3096312,
@@ -95,7 +117,9 @@
   },
   "20251210-app-router-directory-design": {
     "qiita_id": "eb487f8863f5c0092c2a",
-    "qiita_url": "https://qiita.com/pipipi-dev/items/eb487f8863f5c0092c2a"
+    "qiita_url": "https://qiita.com/pipipi-dev/items/eb487f8863f5c0092c2a",
+    "memoreru_id": "vjl670nl9t1jjtg6sjb9062w",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/vjl670nl9t1jjtg6sjb9062w"
   },
   "20251211-mpa-to-spa-migration-en": {
     "devto_id": 3098747,
@@ -103,7 +127,9 @@
   },
   "20251211-mpa-to-spa-migration": {
     "qiita_id": "480b9656ba817dce49b0",
-    "qiita_url": "https://qiita.com/pipipi-dev/items/480b9656ba817dce49b0"
+    "qiita_url": "https://qiita.com/pipipi-dev/items/480b9656ba817dce49b0",
+    "memoreru_id": "p7mnt9o2va534ssr0wcfcc4y",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/p7mnt9o2va534ssr0wcfcc4y"
   },
   "20251212-route-handler-to-hono-en": {
     "devto_id": 3100959,
@@ -111,7 +137,9 @@
   },
   "20251212-route-handler-to-hono": {
     "qiita_id": "90c4258c7e282285fc92",
-    "qiita_url": "https://qiita.com/pipipi-dev/items/90c4258c7e282285fc92"
+    "qiita_url": "https://qiita.com/pipipi-dev/items/90c4258c7e282285fc92",
+    "memoreru_id": "m554bc0afakrlq67xmscjh6v",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/m554bc0afakrlq67xmscjh6v"
   },
   "20251213-vercel-optimization-en": {
     "devto_id": 3102950,
@@ -119,7 +147,9 @@
   },
   "20251213-vercel-optimization": {
     "qiita_id": "335c9c6c2967c55a0d6d",
-    "qiita_url": "https://qiita.com/pipipi-dev/items/335c9c6c2967c55a0d6d"
+    "qiita_url": "https://qiita.com/pipipi-dev/items/335c9c6c2967c55a0d6d",
+    "memoreru_id": "xoxo06j6swfhy0saz11jlsfh",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/xoxo06j6swfhy0saz11jlsfh"
   },
   "20251214-mobile-first-responsive-en": {
     "devto_id": 3104103,
@@ -127,7 +157,9 @@
   },
   "20251214-mobile-first-responsive": {
     "qiita_id": "983103af7bcfeddfd041",
-    "qiita_url": "https://qiita.com/pipipi-dev/items/983103af7bcfeddfd041"
+    "qiita_url": "https://qiita.com/pipipi-dev/items/983103af7bcfeddfd041",
+    "memoreru_id": "yaudz5dz6en4eivho6f89gwq",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/yaudz5dz6en4eivho6f89gwq"
   },
   "20251215-infinite-scroll-zustand-en": {
     "devto_id": 3105609,
@@ -135,7 +167,9 @@
   },
   "20251215-infinite-scroll-zustand": {
     "qiita_id": "426750093978f966ffb1",
-    "qiita_url": "https://qiita.com/pipipi-dev/items/426750093978f966ffb1"
+    "qiita_url": "https://qiita.com/pipipi-dev/items/426750093978f966ffb1",
+    "memoreru_id": "xmoml0z1s8u15wim19hovnvb",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/xmoml0z1s8u15wim19hovnvb"
   },
   "20251216-excel-like-table-en": {
     "devto_id": 3107676,
@@ -143,7 +177,9 @@
   },
   "20251216-excel-like-table": {
     "qiita_id": "5ffc7e21f87a397a2577",
-    "qiita_url": "https://qiita.com/pipipi-dev/items/5ffc7e21f87a397a2577"
+    "qiita_url": "https://qiita.com/pipipi-dev/items/5ffc7e21f87a397a2577",
+    "memoreru_id": "pfrw4d8rcdokfboo1rt3xqw7",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/pfrw4d8rcdokfboo1rt3xqw7"
   },
   "20251217-semantic-search-pgvector-en": {
     "devto_id": 3110192,
@@ -151,7 +187,9 @@
   },
   "20251217-semantic-search-pgvector": {
     "qiita_id": "b5c7e2d189657e850ac9",
-    "qiita_url": "https://qiita.com/pipipi-dev/items/b5c7e2d189657e850ac9"
+    "qiita_url": "https://qiita.com/pipipi-dev/items/b5c7e2d189657e850ac9",
+    "memoreru_id": "o8b43koreidvjxu48t77aod4",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/o8b43koreidvjxu48t77aod4"
   },
   "20251218-typescript-strict-mode.en": {
     "devto_id": 3112254,
@@ -159,7 +197,9 @@
   },
   "20251218-typescript-strict-mode": {
     "qiita_id": "d4a3fbf54e2d86421ff9",
-    "qiita_url": "https://qiita.com/pipipi-dev/items/d4a3fbf54e2d86421ff9"
+    "qiita_url": "https://qiita.com/pipipi-dev/items/d4a3fbf54e2d86421ff9",
+    "memoreru_id": "bavcoq8c8p18t7kzvb6gp4zt",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/bavcoq8c8p18t7kzvb6gp4zt"
   },
   "20251218-typescript-strict-mode-en": {
     "devto_id": 3114765,
@@ -171,7 +211,9 @@
   },
   "20251219-security-essentials-solo-dev": {
     "qiita_id": "088179593205e2b1f748",
-    "qiita_url": "https://qiita.com/pipipi-dev/items/088179593205e2b1f748"
+    "qiita_url": "https://qiita.com/pipipi-dev/items/088179593205e2b1f748",
+    "memoreru_id": "xx90n8hloui1sgl3mk5xci1s",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/xx90n8hloui1sgl3mk5xci1s"
   },
   "20251220-stripe-pricing-design-en": {
     "devto_id": 3116714,
@@ -179,7 +221,9 @@
   },
   "20251220-stripe-pricing-design": {
     "qiita_id": "63b6b3b7e2c8cd9f14f0",
-    "qiita_url": "https://qiita.com/pipipi-dev/items/63b6b3b7e2c8cd9f14f0"
+    "qiita_url": "https://qiita.com/pipipi-dev/items/63b6b3b7e2c8cd9f14f0",
+    "memoreru_id": "t0dxi3xgoddeis8zc0qgtbeb",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/t0dxi3xgoddeis8zc0qgtbeb"
   },
   "20251221-ga4-clarity-analytics-en": {
     "devto_id": 3118222,
@@ -187,7 +231,9 @@
   },
   "20251221-ga4-clarity-analytics": {
     "qiita_id": "88dcaecd431124a1a7fe",
-    "qiita_url": "https://qiita.com/pipipi-dev/items/88dcaecd431124a1a7fe"
+    "qiita_url": "https://qiita.com/pipipi-dev/items/88dcaecd431124a1a7fe",
+    "memoreru_id": "qq25m7ubc1ul0ip44hnkkcam",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/qq25m7ubc1ul0ip44hnkkcam"
   },
   "20251222-multi-tenant-saas-en": {
     "devto_id": 3119828,
@@ -195,7 +241,9 @@
   },
   "20251222-multi-tenant-saas": {
     "qiita_id": "b9d99e2766f4caf3da6d",
-    "qiita_url": "https://qiita.com/pipipi-dev/items/b9d99e2766f4caf3da6d"
+    "qiita_url": "https://qiita.com/pipipi-dev/items/b9d99e2766f4caf3da6d",
+    "memoreru_id": "gd8irnnoks1btl2ngxzcbgkl",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/gd8irnnoks1btl2ngxzcbgkl"
   },
   "20251223-claude-code-ai-pair-programming-en": {
     "devto_id": 3122137,
@@ -203,7 +251,9 @@
   },
   "20251223-claude-code-ai-pair-programming": {
     "qiita_id": "01c1d9c9777366a86d96",
-    "qiita_url": "https://qiita.com/pipipi-dev/items/01c1d9c9777366a86d96"
+    "qiita_url": "https://qiita.com/pipipi-dev/items/01c1d9c9777366a86d96",
+    "memoreru_id": "yircrwv1qmo8ctbac2mlkxac",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/yircrwv1qmo8ctbac2mlkxac"
   },
   "20251224-progress-driven-development-en": {
     "devto_id": 3124581,
@@ -211,7 +261,9 @@
   },
   "20251224-progress-driven-development": {
     "qiita_id": "23dc2e28e0f81b82cbaf",
-    "qiita_url": "https://qiita.com/pipipi-dev/items/23dc2e28e0f81b82cbaf"
+    "qiita_url": "https://qiita.com/pipipi-dev/items/23dc2e28e0f81b82cbaf",
+    "memoreru_id": "egg8qifynlwhps8im81npzl6",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/egg8qifynlwhps8im81npzl6"
   },
   "20251225-year-in-review-en": {
     "devto_id": 3125876,
@@ -219,6 +271,108 @@
   },
   "20251225-year-in-review": {
     "qiita_id": "9ef4f5ddf5b2a210e1bc",
-    "qiita_url": "https://qiita.com/pipipi-dev/items/9ef4f5ddf5b2a210e1bc"
+    "qiita_url": "https://qiita.com/pipipi-dev/items/9ef4f5ddf5b2a210e1bc",
+    "memoreru_id": "g1zdv1uv25kmo0uoo7a4w7p9",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/g1zdv1uv25kmo0uoo7a4w7p9"
+  },
+  "20251201-note-why-dx-tool": {
+    "memoreru_id": "mxdywafxa2795oikwhkw0e32",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/mxdywafxa2795oikwhkw0e32"
+  },
+  "20251202-note-data-for-everyone": {
+    "memoreru_id": "i89tt8vtol29ggn4bbdgojij",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/i89tt8vtol29ggn4bbdgojij"
+  },
+  "20251203-note-one-tool-for-all": {
+    "memoreru_id": "tfnwq1mx6su0ys30cco8tpl7",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/tfnwq1mx6su0ys30cco8tpl7"
+  },
+  "20251204-note-information-management": {
+    "memoreru_id": "uq7g0ufcrmsw7kga04omutv5",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/uq7g0ufcrmsw7kga04omutv5"
+  },
+  "20251205-note-search-discovery": {
+    "memoreru_id": "rt2x3zotohbam6ydrt2jqx15",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/rt2x3zotohbam6ydrt2jqx15"
+  },
+  "20251206-note-weekly-report": {
+    "memoreru_id": "campht5nstjtuu1n5vzml2sd",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/campht5nstjtuu1n5vzml2sd"
+  },
+  "20251207-note-progress-visibility": {
+    "memoreru_id": "l9v5f8vfmo195nhxjwelwebp",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/l9v5f8vfmo195nhxjwelwebp"
+  },
+  "20251208-note-dx-essence": {
+    "memoreru_id": "o5el7e74ikxwrt6szfmlk09n",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/o5el7e74ikxwrt6szfmlk09n"
+  },
+  "20251209-note-no-time-to-learn": {
+    "memoreru_id": "twft8ntaa8tb693jwsq51we9",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/twft8ntaa8tb693jwsq51we9"
+  },
+  "20251210-note-intuitive-ui": {
+    "memoreru_id": "cp9kyladv5safp3bqnbdewxu",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/cp9kyladv5safp3bqnbdewxu"
+  },
+  "20251211-note-content-first-ui": {
+    "memoreru_id": "rs32k5yj3tl3jnpuy0wrrjik",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/rs32k5yj3tl3jnpuy0wrrjik"
+  },
+  "20251212-note-sharing-barrier": {
+    "memoreru_id": "opwmc6hi1gu4h1bxhz148bet",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/opwmc6hi1gu4h1bxhz148bet"
+  },
+  "20251213-note-data-driven": {
+    "memoreru_id": "g56rtbz8i6q27oee464rg42n",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/g56rtbz8i6q27oee464rg42n"
+  },
+  "20251214-note-x-discussions": {
+    "memoreru_id": "p6idilsbnlta5v0xk9nheska",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/p6idilsbnlta5v0xk9nheska"
+  },
+  "20251215-note-beyond-search": {
+    "memoreru_id": "wn0drccnoxmb2356h1y5d2ea",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/wn0drccnoxmb2356h1y5d2ea"
+  },
+  "20251216-note-stock-knowledge": {
+    "memoreru_id": "krtbiqcsqpy5el0afhitds9e",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/krtbiqcsqpy5el0afhitds9e"
+  },
+  "20251217-note-choose-information": {
+    "memoreru_id": "q9jrnkfl4gefsvtc6ifbe4oq",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/q9jrnkfl4gefsvtc6ifbe4oq"
+  },
+  "20251218-note-library-margin": {
+    "memoreru_id": "xcropt2e8o3upna9ao39klwj",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/xcropt2e8o3upna9ao39klwj"
+  },
+  "20251219-note-daily-commit": {
+    "memoreru_id": "uxhvn6qzz62nuniv264mkbtl",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/uxhvn6qzz62nuniv264mkbtl"
+  },
+  "20251220-note-ai-friendly-code": {
+    "memoreru_id": "lzb9wne8rep2va59w5js3ivv",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/lzb9wne8rep2va59w5js3ivv"
+  },
+  "20251221-note-show-working-first": {
+    "memoreru_id": "tyuxaueqp2fegiqfhlyc66jq",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/tyuxaueqp2fegiqfhlyc66jq"
+  },
+  "20251222-note-human-judgment-in-ai-era": {
+    "memoreru_id": "ewl6q8x9uhsu4bsxg32ln0os",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/ewl6q8x9uhsu4bsxg32ln0os"
+  },
+  "20251223-note-quality-for-enterprise": {
+    "memoreru_id": "r8x5ovuc97xgo9b63anlpf5l",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/r8x5ovuc97xgo9b63anlpf5l"
+  },
+  "20251224-note-from-maker-to-decider": {
+    "memoreru_id": "e5c193285ommzdztny9w4doi",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/e5c193285ommzdztny9w4doi"
+  },
+  "20251225-note-daily-writing": {
+    "memoreru_id": "xea19wixjrf8g5fz7xe89plv",
+    "memoreru_url": "https://memoreru.com/ja/contents/page/xea19wixjrf8g5fz7xe89plv"
   }
 }

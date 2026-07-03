@@ -5,6 +5,7 @@ on:
     branches: [ main ]
     paths:
       - 'articles/**'
+      - 'note/**'
   workflow_dispatch: # 手動実行も可能
 
 jobs:
@@ -36,11 +37,14 @@ jobs:
       env:
         QIITA_API_TOKEN: ${{ secrets.QIITA_API_TOKEN }}
         DEV_TO_API_KEY: ${{ secrets.DEV_TO_API_KEY }}
+        MEMORERU_API_TOKEN: ${{ secrets.MEMORERU_API_TOKEN }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         echo "Publishing articles..."
         node scripts/publish-articles.js
-        
+        echo "Publishing notes to Memoreru..."
+        node scripts/publish-notes.js
+
     - name: Commit converted articles
       run: |
         git config --local user.email "action@github.com"

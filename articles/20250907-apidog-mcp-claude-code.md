@@ -7,6 +7,7 @@ published: true
 platforms:
   qiita: true
   devto: false
+  memoreru: true
 ---
 
 ## 🎯 この記事の概要

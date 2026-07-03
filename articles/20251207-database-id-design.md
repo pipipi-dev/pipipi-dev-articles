@@ -8,6 +8,7 @@ platforms:
   qiita: true
   zenn: true
   devto: false
+  memoreru: true
 ---
 
 この記事は、**[ひとりでつくるSaaS - 設計・実装・運用の記録 Advent Calendar 2025](https://adventar.org/calendars/12615)** の7日目の記事です。
